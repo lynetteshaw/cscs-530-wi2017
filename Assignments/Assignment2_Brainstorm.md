@@ -1,4 +1,5 @@
 # Project Brainstorm and Literature Review 
+##**Due Weds., 2/8 via Canvas Dropbox**
 &nbsp; 
 
 The purpose of this assignment is to help you start honing in on the model you will be building for your course project. As mentioned in the syllabus, the hope for this class is that you will end up building something that will be useful to you in your subsequent research. Ultimately though, the decision of what to focus on and build is entirely up to you.
