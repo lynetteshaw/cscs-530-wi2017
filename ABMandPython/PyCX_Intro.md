@@ -55,3 +55,41 @@ Hiroki Sayama, the developer of PyCX and author of [_Introduction to the Modelin
 
 	import pycxsimulator
 	pycxsimulator.GUI().start(func=[initialize, observe, update])
+
+&nbsp; 
+
+
+#### Adding text to the "Info" tab
+Filling out the "Info" tab of the GUI is handled using a 'docstring' in the initialize function.
+
+	def initialize():
+	'''
+	This is my first PyCX simulator code.
+	It simulates random motion of n particles.
+	Copyright 2014 John Doe
+	'''
+	global xlist, ylist
+	...
+&nbsp; 
+
+
+### Including Interactive Parameter Control
+
+The PyCX GUI also allows for interactive parameter control through the GUI via including a "Parameter Setter" function in your model, and passing it to the pycxsimulator.GUI() to run your model. 
+
+In the code below, just substitute your own specifications between the pointed brackets.
+
+	def <parameter setter name> (val = <parameter name>):
+		'''
+		<explanation of parameter>
+		<this part will be displayed when you mouse-over on parameter setter>
+		'''
+		global <parameter name>
+		<parameter name> = int(val) # or float(val), str(val), etc.
+		return val
+&nbsp; 
+
+The pass this function to the GUI function.
+
+	pycxsimulator.GUI(parameterSetters=<list of parameter setters>).start...
+
