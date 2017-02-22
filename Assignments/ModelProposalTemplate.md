@@ -1,8 +1,12 @@
 # Model Proposal for _[Project Name]_
 
+_Your Name_
+
 * Course ID: CMPLXSYS 530,
 * Course Title: Computer Modeling of Complex Systems
 * Term: Winter, 2017
+
+
 
 &nbsp; 
 
@@ -17,7 +21,7 @@ _Provide a short, 1-3 sentence description of the goal of your model_
 _Short explanation on why you are using ABM_
 
 &nbsp; 
-### Processes, Mechanisms, or Relationships of Interest
+### Main Micro-level Processes and Macro-level Dynamics of Interest
 ****
 
 _Short overview of the key processes and/or relationships you are interested in using your model to explore. Will likely be something regarding emergent behavior that arises from individual interactions_
