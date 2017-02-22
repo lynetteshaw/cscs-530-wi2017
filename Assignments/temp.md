@@ -88,7 +88,7 @@ _Provide a high level, step-by-step description of your schedule during each "ti
 
 ### 5) Assessment and Outcome Measures
 
-_What quantitative metrics and/or qualitative features will you use to assess your model outcomes? _
+_What quantitative metrics and/or qualitative features will you use to assess your model outcomes?_
 
 &nbsp; 
 
