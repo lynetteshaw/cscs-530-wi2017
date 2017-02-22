@@ -26,6 +26,8 @@ _Short explanation on why you are using ABM_
 
 _Short overview of the key processes and/or relationships you are interested in using your model to explore. Will likely be something regarding emergent behavior that arises from individual interactions_
 
+&nbsp; 
+
 
 ## Model Outline
 ****
