@@ -5,7 +5,7 @@ Examples and Python implementations are taken from our _Think Complexity_ textbo
 
 ### Prisoner's Dilemma
 
-To explore an earlier implementation of the Prisoner's Dilemma game we discussed in class, see the 2_3_pd-sweep notebook. 
+To explore an earlier implementation of the Prisoner's Dilemma game we discussed in class, see **2_3_pd-sweep.ipynb**.
 
 If you are interested in getting going on your own player tournament, use the following exercise instructions from _Think Complexity_ (p. 96 - 97):
 
