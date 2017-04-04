@@ -1,5 +1,5 @@
 # Assignment 4: Model Proposal
-##**Due Fri., 3/10 via your GitHub Repository**
+## **Due Fri., 3/10 via your GitHub Repository**
 &nbsp; 
 
 For this proposal, fill out the sections provided in the [Model Proposal Template](https://github.com/lynetteshaw/cscs-530-wi2017/blob/master/Assignments/ModelProposalTemplate.md).
