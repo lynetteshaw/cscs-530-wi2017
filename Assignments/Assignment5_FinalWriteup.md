@@ -1,6 +1,6 @@
 # Final Writeup
 
-### Due April 21, 2017 (submitted through either GitHub OR Canvas)
+### Due Friday, April 21, 2017 (submitted through either GitHub OR Canvas)
 
 &nbsp; 
 
